@@ -1,7 +1,5 @@
 # Twitter-clone
 
-yeah so basically social media
-
 ## Install the dependencies
 ```bash
 yarn
